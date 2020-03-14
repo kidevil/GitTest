@@ -7,9 +7,7 @@ package com.itcast.gittest;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("git测试");
-        System.out.println("修改后的版本");
-        System.out.println("老板修改的代码");
-        System.out.println("自己修改的代码");
+        System.out.println("git私仓测试");
+
     }
 }
