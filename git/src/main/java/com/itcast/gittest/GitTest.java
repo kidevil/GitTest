@@ -3,7 +3,7 @@ package com.itcast.gittest;
 /**
  * @Auther: 343
  * @Date: 2020/3/14 21:18
- * @Description: 这是一个git 老板的测试
+ * @Description: 这是一个git测试
  */
 public class GitTest {
     public static void main(String[] args) {
@@ -11,6 +11,5 @@ public class GitTest {
         System.out.println("修改后的版本");
         System.out.println("老板修改的代码");
         System.out.println("自己修改的代码");
-        System.out.println("老板添加了一个分支");
     }
 }
