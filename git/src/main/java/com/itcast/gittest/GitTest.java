@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("git测试");
         System.out.println("修改后的版本");
         System.out.println("老板修改的代码");
+        System.out.println("自己修改的代码");
     }
 }
